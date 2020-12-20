@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6d3fb33e3e0d5c1e59c58c4311b06092",
+  "assets/AssetManifest.json": "1e0f7cfbf2248cc73e956d8782b32c53",
 "assets/assets/fuentes/FredokaOne-Regular.ttf": "4a2f2ea45a0bb1abe81b47d0afde4aae",
 "assets/assets/fuentes/ReemKufi-Regular.ttf": "2e981d24acae70b64ca4bd957c21819b",
 "assets/assets/fuentes/TitanOne-Regular.ttf": "cbb4d15b35ec11cb0638570c275fdf9d",
@@ -14,6 +14,10 @@ const RESOURCES = {
 "assets/assets/ImagenApp/logosinfondo.jpg": "486c381296285b53c2e643407984a42a",
 "assets/assets/ImagenApp/rosario.png": "2dbf33800a94cc4ad9869031cf521a85",
 "assets/assets/imagenGrupos/PJ.jpeg": "39806b4b4267925e8f2c8347e2c90de4",
+"assets/assets/ImagenRosario/Dolorosos.png": "449a403efaea8a0f749863d944226d9f",
+"assets/assets/ImagenRosario/Gloriosos.png": "c227ca1552afceb169630fecc7df4fe7",
+"assets/assets/ImagenRosario/Gozosos.png": "3278b5fb9ea2eff5581f947b76bd3ccd",
+"assets/assets/ImagenRosario/Luminosos.png": "7f9e48c3e7a3a855b712a12e80bae668",
 "assets/assets/logo.png": "2fbc477d806b81f9fee756dd9808d443",
 "assets/assets/logoAplicacion.png": "991391b339f6d5a1192da977d987649a",
 "assets/assets/pastel.jpg": "87df8e715218211214db84a19d4d6935",
@@ -24,16 +28,16 @@ const RESOURCES = {
 "assets/assets/steveCumple.jpg": "a2388df374d051c5f6752db5d56d63d6",
 "assets/FontManifest.json": "6bb46d326532b9c834310fec2e216d48",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "4b206514be23b09fed754adb05e05e40",
+"assets/NOTICES": "2da7690db519efca40e9b9ef4c9d2788",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "favicon.png": "8f1d26cf1b93bf71af198365819d1884",
 "icons/Icon-192.png": "0ddcdcc872f742d276813f855e0d07d3",
 "icons/Icon-512.png": "805896c266a78b4c3ca4cfc6dc35b21e",
-"index.html": "b58c3f7e5ca63e89b0d2f034da89d1a1",
-"/": "b58c3f7e5ca63e89b0d2f034da89d1a1",
-"main.dart.js": "12337d3cd0babb747b4958239f6df355",
+"index.html": "7b387e89553039394e8063c66425eaad",
+"/": "7b387e89553039394e8063c66425eaad",
+"main.dart.js": "e0a8e68d1e8b0920c4cc662d90fbc458",
 "manifest.json": "7db4d5376322356caab0329e7b44f78f",
-"version.json": "deb7db0b854011cd7f8725964d3eb166"
+"version.json": "c5470fc29956559d9bf777489fce10c0"
 };
 
 // The application shell files that are downloaded before a service worker can
